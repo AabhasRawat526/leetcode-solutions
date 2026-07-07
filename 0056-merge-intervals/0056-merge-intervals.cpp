@@ -12,11 +12,12 @@ public:
             if (end1>=start2){
                 start1=start1;
                 end1=max(end1,end2);
-                continue;
             }
-            res.push_back({start1,end1});
-            start1=start2;
-            end1=end2;
+            else {
+                res.push_back({start1,end1});
+                start1=start2;
+                end1=end2;
+            }
         }
         res.push_back({start1,end1});
         return res;
