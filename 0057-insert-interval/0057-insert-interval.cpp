@@ -23,7 +23,7 @@ public:
         int len=res.size();
         int start1=res[0][0];
         int end1=res[0][1];
-        for (int i=1;i<=n;i++){
+        for (int i=1;i<len;i++){
             int start2=res[i][0];
             int end2=res[i][1];
             if (end1>=start2){
