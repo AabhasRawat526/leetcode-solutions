@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0986-interval-list-intersections](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1191-k-concatenation-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
