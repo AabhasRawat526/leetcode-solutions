@@ -8,7 +8,9 @@ public:
             if (f.find(difference)!=f.end()){
                 return {f[difference],i};
             }
-            f[nums[i]]=i;
+            else {
+                f[nums[i]]=i;;
+            }
         }
         return {};
     }
