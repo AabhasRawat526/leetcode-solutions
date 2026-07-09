@@ -9,7 +9,7 @@ public:
                 return {f[difference],i};
             }
             else {
-                f[nums[i]]=i;;
+                f[nums[i]]=i;
             }
         }
         return {};
