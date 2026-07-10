@@ -11,11 +11,9 @@ public:
             int end2=intervals[i][1];
             if (end1>start2){
                 count++;
-                start1=max(start1,start2);
                 end1=min(end1,end2);
             }
             else {
-                start1=start2;
                 end1=end2;
             }
         }
