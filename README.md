@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1122-relative-sort-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
