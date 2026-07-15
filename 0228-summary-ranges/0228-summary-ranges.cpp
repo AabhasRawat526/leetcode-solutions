@@ -8,8 +8,8 @@ public:
             int end=nums[i];
 
             while(i+1<n && nums[i+1] == nums[i]+1){
-                end=nums[i+1];
                 i++;
+                end=nums[i];
             }
             string ans=to_string(start)+"->"+ to_string(end);
             if (start==end){
