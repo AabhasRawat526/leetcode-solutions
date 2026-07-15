@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<string> summaryRanges(vector<int>& nums) {
         int n=nums.size();
-        string ans;
         vector <string> res;
         for (int i=0;i<n;i++){
             int start=nums[i];
