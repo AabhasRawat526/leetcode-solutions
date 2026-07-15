@@ -14,7 +14,7 @@ public:
             }
             string ans=to_string(start)+"->"+ to_string(end);
             if (start==end){
-                ans=to_string(start);
+                ans=to_string(start);     /// overwriting ...
             }
             res.push_back(ans);
         }
