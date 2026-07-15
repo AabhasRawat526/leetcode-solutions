@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sweep Line
 |  |
 | ------- |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
