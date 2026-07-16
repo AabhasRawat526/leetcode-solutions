@@ -28,9 +28,10 @@ void reverse(ListNode*head,int times){
         ListNode*left=head;
         ListNode*previousleft=nullptr;
         ListNode*res=nullptr;
+        ListNode*right=head;
         int size=k;
         while(true){
-            ListNode*right=left;
+            ListNode*right=left;        // it will always be inside the while loop and initial value will be equal to left
             for (int i=0;i<k-1;i++){
                 if (right==nullptr){
                     break;
@@ -51,7 +52,7 @@ void reverse(ListNode*head,int times){
             }
             else {
                 if (previousleft){
-                    previousleft->next=left;
+                    previousleft->next=left;    // if left is there and the right is not there so previous->next=left not right keep this thing in mind ....
                 }
                 if (res==nullptr){
                     res=left;
