@@ -10,18 +10,16 @@
  */
 class Solution {
 public:
-ListNode*reverse(ListNode*head,int times){
+void reverse (ListNode*head,int times){
     ListNode*current=head;
     ListNode*previous=nullptr;
-    while(times){
+    while(times--){
         ListNode*next=current->next;
         current->next=previous;
         previous=current;
         current=next;
-        times--;
     }
-    head->next=current;
-    return previous;
+    return;
 }
     ListNode* swapPairs(ListNode* head) {
         if (head==nullptr){
@@ -30,22 +28,37 @@ ListNode*reverse(ListNode*head,int times){
         ListNode*left=head;
         ListNode*previousleft=nullptr;
         ListNode*res=nullptr;
-        while(left && left->next){
-            ListNode*right=left->next;
-            ListNode*nextleft=right->next;
-            ListNode*newhead=reverse(left,2);
-            if (previousleft){
-                previousleft->next=newhead;
+        int size=2;
+        while(true){
+            ListNode*right=left;
+            for (int i=0;i<size-1;i++){
+                if (right==nullptr){
+                    break;
+                }
+                right=right->next;
             }
-            if (res==nullptr){
-                res=newhead;
-            }
-            previousleft=left;
-            left=nextleft;
-        }
-        if (res==nullptr){
-            res=head;
-        }
-        return res;     
+                if (right){     // left right mil gya hai
+                   ListNode*nextleft=right->next;
+                   reverse(left,size);
+                   if (previousleft){
+                    previousleft->next=right;
+                   }
+                   previousleft=left;
+                   if (res==nullptr){
+                    res=right;
+                   }
+                   left=nextleft;
+                }
+                else {
+                    if (previousleft){
+                        previousleft->next=left;
+                    }
+                    if (res==nullptr){
+                        res=left;
+                    }
+                    break;
+                }
+         }
+         return res;
     }
 };
