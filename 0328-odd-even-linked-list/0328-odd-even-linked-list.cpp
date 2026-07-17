@@ -18,7 +18,7 @@ public:
             return head;
         }
         ListNode*odd=head;
-        ListNode*even=head->next;
+        ListNode*even=odd->next;
         ListNode*evennode=even;
         while(even!=nullptr and even->next!=nullptr){
             odd->next=even->next;       // connects odd to the odd 
