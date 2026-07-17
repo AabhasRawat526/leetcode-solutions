@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
