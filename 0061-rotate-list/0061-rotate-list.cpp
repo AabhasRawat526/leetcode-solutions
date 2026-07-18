@@ -16,6 +16,9 @@ public:
             return nullptr;
         }
 
+        if (head->next==nullptr){
+            return head;
+        }
         int n=1;
         ListNode*last=head;
 
