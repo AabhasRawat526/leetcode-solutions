@@ -42,3 +42,6 @@ public:
 
     }
 };
+
+
+// both fast and slow pointer will be used to calculate the mid and use of reverse to calculate the corresponding value....
