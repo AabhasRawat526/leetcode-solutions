@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0986-interval-list-intersections](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
