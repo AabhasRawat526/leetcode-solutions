@@ -53,3 +53,6 @@ public:
         return dummy->next;
     }
 };
+
+
+// very important question both slow and fast pointers are being used but with sligh change fast will point to slow->next and then merge sort is taking place and finally we are merging it so these are the concept which is using in this question ..
