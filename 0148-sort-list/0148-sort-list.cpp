@@ -10,6 +10,7 @@
  */
 class Solution{
 public:
+// revcursive function
     ListNode*sortList(ListNode*head){
         if (head==nullptr){
             return nullptr;
@@ -25,11 +26,12 @@ public:
         }
         ListNode*second=slow->next;
         slow->next=nullptr;
+        // to be specific this one 
         ListNode*left=sortList(head);
         ListNode*right=sortList(second);
         return merge(left,right);
     }
-
+    // merging the two array..
     ListNode*merge(ListNode*list1 , ListNode*list2){
         ListNode*dummy=new ListNode(0);
         ListNode*current=dummy;
