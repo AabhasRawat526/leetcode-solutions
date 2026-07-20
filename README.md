@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0704-binary-search) |
 ## Recursion
 |  |
 | ------- |
