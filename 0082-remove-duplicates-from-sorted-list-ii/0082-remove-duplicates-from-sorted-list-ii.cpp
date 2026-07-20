@@ -1,3 +1,4 @@
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -11,7 +12,7 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        if(head==nullptr){
+        if (head==nullptr){
             return nullptr;
         }
         if (head->next==nullptr){
@@ -29,7 +30,6 @@ public:
                 previous->next=current->next;
             }
             else {
-                previous->next=current;
                 previous=previous->next;
             }
             current=current->next;
