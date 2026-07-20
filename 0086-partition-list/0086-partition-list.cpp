@@ -38,3 +38,6 @@ public:
         return smalldummy->next;
     }
 };
+
+
+// tc is O(N) and space complexity is also O(N) but any extra space we are not taking like we are not creating any extra linked list or array in that sense saying we are not taking any extra space ...
