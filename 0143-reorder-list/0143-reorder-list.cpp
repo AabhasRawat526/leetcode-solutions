@@ -40,10 +40,12 @@ public:
             ListNode*second2=second->next;
             first->next=second;
             second->next=next1;
-
             first=next1;
             second=second2;
         }
 
     }
 };
+
+
+// where we want to discontinue the linked list and make two seperate linked list we do first=head->next and use second so that part can be done ....... and in palindrome and in to find the max sum we do not want to discontinue the linked list because we do not want to rearrange them we just want to check for max sum and to check whether the head value is equal to last value or not like this .....
