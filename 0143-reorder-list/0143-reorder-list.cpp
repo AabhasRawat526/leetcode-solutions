@@ -34,6 +34,7 @@ public:
             current=next;
         }
         ListNode*first=head;
+        /*
         second=previous;
         while(second!=nullptr){
             ListNode*next1=first->next;
@@ -42,6 +43,16 @@ public:
             second->next=next1;
             first=next1;
             second=second2;
+        }
+        */
+
+        while(previous!=nullptr){
+            ListNode*first1=first->next;
+            ListNode*second1=previous->next;
+            first->next=previous;
+            previous->next=first1;
+            first=first1;
+            previous=second1;
         }
 
     }
