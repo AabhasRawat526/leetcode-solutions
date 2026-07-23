@@ -35,10 +35,12 @@ ListNode*merge(ListNode* l1, ListNode* l2){
 
 
 ListNode*divide(vector<ListNode*>& lists,int left,int right){
+    
+    int mid=(left+right)/2;
+
     if (left==right){
         return lists[left];
     }
-    int mid=(left+right)/2;
 
     ListNode*l1=divide(lists,left,mid);
 
