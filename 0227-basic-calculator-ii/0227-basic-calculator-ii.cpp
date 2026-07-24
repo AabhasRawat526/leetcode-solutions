@@ -4,7 +4,6 @@ public:
         int n=s.size();
         char op='+';
         int number=0;
-        int res=0;
         stack <int> st;
         for (int i=0;i<n;i++){
             if(isdigit(s[i])){
