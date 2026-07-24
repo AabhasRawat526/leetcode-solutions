@@ -21,7 +21,7 @@ public:
                 }
             }
             else {
-                st.push(stoi(t));
+                st.push(stoi(t));    // to convert string into integer we have this stoi
             }
         }
         return st.top();
