@@ -30,7 +30,6 @@ public:
             else if (s[i]==')'){    // bracket ke andar wala jo almost ban hone wala hai to waha bhi same chalega operations just like + - and all .......
                 res=res+(number*sign);
                 number=0;
-
                 int lastsign=st.top();st.pop();
                 int lastresult=st.top();st.pop();
                 res=res*lastsign;
