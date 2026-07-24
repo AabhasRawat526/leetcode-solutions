@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0227-basic-calculator-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
