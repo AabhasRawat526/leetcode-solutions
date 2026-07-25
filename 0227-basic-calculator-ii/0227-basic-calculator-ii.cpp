@@ -34,8 +34,11 @@ public:
         }
         int ans=0;
         while(!st.empty()){
-            ans=ans+st.top();
+            //ans=ans+st.top();
+            //st.pop();
+            int topper=st.top();
             st.pop();
+            ans=ans+topper;
         }
         return ans;
     }
