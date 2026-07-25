@@ -16,3 +16,7 @@ public:
         return number1*number2;
     }
 };
+
+
+// tc in terms of string is O(m) and in terms of number it is O(log n).
+// Space = O(m)   O(log n)  in terms of numbers 
