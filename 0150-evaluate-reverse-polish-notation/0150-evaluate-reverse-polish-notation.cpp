@@ -5,18 +5,24 @@ public:
         stack <int> st;
         for (string t:tokens){
             if (t=="+" || t=="-" || t=="*" || t=="/"){
-                int a=st.top();st.pop();
-                int b=st.top();st.pop();
                 if (t=="+"){
+                    int a=st.top();st.pop();
+                    int b=st.top();st.pop();
                     st.push(a+b);
                 }
                 else if (t=="-"){
+                    int a=st.top();st.pop();
+                    int b=st.top();st.pop();
                     st.push(b-a);
                 }
                 else if (t=="*"){
+                    int a=st.top();st.pop();
+                    int b=st.top();st.pop();
                     st.push(a*b);
                 }
                 else if (t=="/"){
+                    int a=st.top();st.pop();
+                    int b=st.top();st.pop();
                     st.push(b/a);
                 }
             }
