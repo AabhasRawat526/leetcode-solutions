@@ -4,7 +4,7 @@ public:
         int n=s.size();
         stack<int> st;
         for (int i=0;i<n;i++){
-            if(st.empty()){
+            if (st.empty()){
                 st.push(s[i]);
                 continue;
             }
