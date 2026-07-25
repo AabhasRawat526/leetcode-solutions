@@ -12,9 +12,11 @@ public:
             if ((!isdigit(s[i]) && s[i] != ' ') || i==n-1){
                  if (op=='+'){
                     st.push(number);
+                    number=0;
                 }
                 else if (op=='-'){
                     st.push(-number);
+                    number=0;
                 }
                 else if (op=='*'){
                     int top=st.top();
