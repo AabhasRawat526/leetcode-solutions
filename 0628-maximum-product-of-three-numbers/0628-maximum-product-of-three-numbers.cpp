@@ -13,9 +13,17 @@ public:
 
         */
 
+        // tc is 0(n) 
+
         int n=nums.size();
 
-        vector <int> res=nums;
+        //vector <int> res=nums;
+
+        vector <int> res(n);
+
+        for (int i=0;i<n;i++){
+            res[i]=nums[i];
+        }
 
         int maximum1=*max_element(res.begin(),res.end());
         auto id=max_element(res.begin(),res.end());
