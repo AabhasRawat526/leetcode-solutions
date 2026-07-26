@@ -19,10 +19,14 @@ public:
 
         //vector <int> res=nums;
 
-        vector <int> res(n);
+        vector <int> res;
+
+        // for (int i=0;i<n;i++){
+            // res[i]=nums[i];
+        // }
 
         for (int i=0;i<n;i++){
-            res[i]=nums[i];
+            res.push_back(nums[i]);
         }
 
         int maximum1=*max_element(res.begin(),res.end());
