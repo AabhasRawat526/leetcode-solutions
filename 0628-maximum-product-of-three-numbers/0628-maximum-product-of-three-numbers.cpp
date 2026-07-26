@@ -19,11 +19,13 @@ public:
 
         //vector <int> res=nums;
 
-        vector <int> res;
+        // vector <int> res(n);
 
         // for (int i=0;i<n;i++){
             // res[i]=nums[i];
         // }
+
+        vector <int> res;
 
         for (int i=0;i<n;i++){
             res.push_back(nums[i]);
