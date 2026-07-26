@@ -8,7 +8,7 @@ public:
                 st.push(s[i]);
                 continue;
             }
-            if (s[i]=='#' && st.size()>0){
+            if (s[i]=='#' && st.size()>0){   // imp this line
                 st.pop();
                 continue;
             }
@@ -26,7 +26,7 @@ public:
                 s1.push(t[i]);
                 continue;
             }
-            if (t[i] =='#' && s1.size()>0){
+            if (t[i] =='#' && s1.size()>0){    // imp this line
                 s1.pop();
                 continue;
             }
