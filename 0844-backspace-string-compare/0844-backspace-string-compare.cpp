@@ -26,7 +26,7 @@ public:
                 s1.push(t[i]);
                 continue;
             }
-            if (t[i]=='#' && s1.size()>0){
+            if (t[i] =='#' && s1.size()>0){
                 s1.pop();
                 continue;
             }
