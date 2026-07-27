@@ -81,7 +81,7 @@ int findmaxarea(vector<int>&height){
         int m=matrix[0].size();   // column calculate
         vector <int> height(m);
         for (int i=0;i<m;i++){
-            height[i]=matrix[0][i]=='1' ? 1 : 0; 
+            height[i]=matrix[0][i]=='1'?1:0; 
         }
         int maxarea=findmaxarea(height);
 
