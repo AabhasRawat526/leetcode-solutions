@@ -99,3 +99,16 @@ int findmaxarea(vector<int>&height){
         return maxarea;
     }
 };
+
+
+/*
+
+the data type of the matrix is char so height[i] = matrix[0][i] == '1' ? 1 : 0; that is why we do this
+
+if (matrix[0][i] == '1')
+    height[i] = 1;
+else
+    height[i] = 0; 
+
+if only integer so height[i] = matrix[0][i]; then it will be okk which i was thinking ....
+*/
