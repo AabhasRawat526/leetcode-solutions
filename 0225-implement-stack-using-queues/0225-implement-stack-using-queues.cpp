@@ -41,6 +41,9 @@ queue<int> output;
 
 */
 
+
+// one queue 
+
 class MyStack {
 public:
 
