@@ -1,3 +1,7 @@
+/*
+
+using 2 queue but we can do with the help of 1 queue and in the next i am doing with the help of one queue..
+
 class MyStack {
 public:
 
@@ -33,6 +37,44 @@ queue<int> output;
         }
         return false;
     }
+};
+
+*/
+
+class MyStack {
+public:
+
+queue<int>input;
+
+    MyStack(){
+
+    }
+
+    void push(int x){
+        input.push(x);
+        for (int i=0;i<input.size()-1;i++){
+            input.push(input.front());
+            input.pop();
+        }
+    }
+
+    int pop(){
+        int topper=input.front();
+        input.pop();
+        return topper;
+    }
+
+    int top(){
+        return input.front();
+    }
+
+    bool empty(){
+        if(input.empty()){
+            return true;
+        }
+        return false;
+    }
+
 };
 
 /**
