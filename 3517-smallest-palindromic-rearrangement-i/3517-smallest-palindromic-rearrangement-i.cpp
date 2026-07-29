@@ -2,7 +2,6 @@ class Solution {
 public:
     string smallestPalindrome(string s) {
         int n=s.size();
-        string s1;
         if (n<2){
             return s;
         }
