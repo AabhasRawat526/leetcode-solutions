@@ -24,7 +24,7 @@ public:
                 st.pop();
                 string previousstring=st1.top();
                 st1.pop();
-                //currentstring=previousstring+currentstring*previousdigit; used in python
+                //currentstring=previousstring+currentstring*previousdigit; used in python c++ do not support this kind of operator ....
                 string repeated="";
                 for (int i=0;i<previousdigit;i++){
                     repeated=repeated+currentstring;
