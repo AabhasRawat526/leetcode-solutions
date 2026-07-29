@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0739-daily-temperatures) |
