@@ -11,7 +11,7 @@ int minvalue;
     
     void push(int value) {
         //stack1.push(value);
-        if(stack2.empty()){
+        if(stack1.empty()){
             stack1.push(value);
             minvalue=value;
             stack2.push(value);
