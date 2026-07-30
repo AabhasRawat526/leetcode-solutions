@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
