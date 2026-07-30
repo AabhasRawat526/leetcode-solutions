@@ -22,3 +22,6 @@ public:
         return (m+1)/2;
     }
 };
+
+
+// balanced walo ko pop out karo and jitne bhi [[[ aaye +1 karo and then divide by 2 karo and get answer ...
