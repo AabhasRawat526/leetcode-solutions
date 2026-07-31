@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0704-binary-search) |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
