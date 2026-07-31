@@ -33,3 +33,32 @@ public:
         return nums[right];
     }
 };
+
+
+/*
+
+while(left < right){
+
+    ...
+
+}
+
+return left or right;
+
+
+int ans=-1;
+
+while(left<=right){
+
+    if(found){
+        ans=mid;
+        break;
+    }
+
+    ...
+}
+
+return ans;
+
+
+*/
