@@ -12,7 +12,7 @@ public:
                     s[i]='@';
                 }
                 else {
-                    char topper=st.top();
+                    //char topper=st.top();
                     st.pop();
                 }
             }
