@@ -6,11 +6,9 @@ public:
         for (int i=0;i<n;i++){
             if (s[i]=='['){
                 st.push(s[i]);
-                continue;
             }
             if(st.size()>0 && st.top()=='[' && s[i]==']'){
                 st.pop();
-                continue;
             }
         }
         int m=st.size();
