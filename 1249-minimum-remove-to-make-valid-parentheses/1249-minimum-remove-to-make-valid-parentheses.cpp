@@ -7,7 +7,7 @@ public:
             if (s[i]=='('){
                 st.push(i);
             }
-            else if (s[i]==')'){
+            else if(s[i]==')'){
                 if(st.empty()){
                     s[i]='@';
                 }
