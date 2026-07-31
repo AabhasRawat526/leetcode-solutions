@@ -14,7 +14,6 @@ public:
             }
         }
         int m=st.size();
-        int mid=m/2;
         return (m+1)/2;
     }
 };
