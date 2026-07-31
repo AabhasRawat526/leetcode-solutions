@@ -7,7 +7,7 @@ public:
             if (s[i]=='['){
                 st.push(s[i]);
             }
-            if(st.size()>0 && st.top()=='[' && s[i]==']'){
+            else if(st.size()>0 && st.top()=='[' && s[i]==']'){
                 st.pop();
             }
         }
