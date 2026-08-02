@@ -50,7 +50,7 @@ int lowerboundmaking(int left,int right,vector<int>& potions,long long int minpo
                 continue;
             }
 
-            int value=lowerboundmaking(0,m-1,potions,minpotions);
+            int value=lowerboundmaking(0,m-1,potions,minpotions);  // here i am not using the built in c++ stl library i am making a function called lowerboundmaking and then doing the binary search there ...
             int count=m-value;
             ans.push_back(count);
         }
