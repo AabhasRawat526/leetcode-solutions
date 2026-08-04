@@ -6,7 +6,7 @@ bool possible(vector<int> & batteries,long long int expected,int count){
     long long int sum=0;
 
     for (int i=0;i<batteries.size();i++){
-        sum=sum+min((long long)batteries[i],expected);
+        sum=sum+min((long long)batteries[i],expected); // imp concept ...
     }
 
     if (sum>=expected*count){
@@ -24,7 +24,7 @@ bool possible(vector<int> & batteries,long long int expected,int count){
             totalsum=totalsum+batteries[i];
         }
         long long int left=*min_element(batteries.begin(),batteries.end());
-        long long int right=totalsum/n;
+        long long int right=totalsum/n;  // imp tooo
         long long int res=INT_MIN;
         while(left<=right){
             long long int mid=left+(right-left)/2;
