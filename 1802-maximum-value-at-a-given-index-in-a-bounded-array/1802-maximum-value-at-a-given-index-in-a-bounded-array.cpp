@@ -37,3 +37,30 @@ long long int getsum(long long count,int x){    // here count is the mid sum and
         return result;
     }
 };
+
+
+/*
+
+Step 1:
+Put mid at index.
+
+Step 2:
+Keep decreasing by 1 while possible.
+
+Step 3:
+If you reach 1 before reaching the boundary,
+fill the remaining cells with 1.
+
+Step 4:
+Do the same on the right.
+
+Step 5:
+Compute the total sum.
+
+If total ≤ maxSum,
+this height is possible.
+Otherwise,
+it's impossible.
+
+
+*/
