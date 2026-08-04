@@ -26,9 +26,11 @@ long long int findcost(vector<int>& nums,vector<int>& cost,long long int target)
 
             if (cost2>cost1){
                 right=mid-1;
+                result=min(cost2,cost1);
             }
             else {
                 left=mid+1;
+                result=min(cost2,cost1);
             }
         }
         if(result==INT_MAX){
