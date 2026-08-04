@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3731-find-missing-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
