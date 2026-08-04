@@ -7,7 +7,7 @@ long long int findcost(vector<int>& nums,vector<int>& cost,long long int target)
 
     for (int i=0;i<nums.size();i++){
 
-        result=result +(long long)abs(nums[i]-target)*cost[i];
+        result=result +(long long)abs(target-nums[i])*cost[i];
     }
 
     return result;
@@ -22,7 +22,8 @@ long long int findcost(vector<int>& nums,vector<int>& cost,long long int target)
             long long mid=left+(right-left)/2;
             long long int cost1=findcost(nums,cost,mid);
             long long int cost2=findcost(nums,cost,mid+1);
-            result=min(cost2,cost1);
+            //result=min(cost2,cost1);  also correct...
+
 
             if (cost2>cost1){
                 right=mid-1;
