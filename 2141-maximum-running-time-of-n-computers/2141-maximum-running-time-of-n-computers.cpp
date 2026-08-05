@@ -29,7 +29,7 @@ bool possible(vector<int> & batteries,long long int expected,int count){
         while(left<=right){
             long long int mid=left+(right-left)/2;
             if(possible(batteries,mid,n)){
-                res=mid;
+                res=max(res,mid);
                 left=mid+1;
             }
             else {
