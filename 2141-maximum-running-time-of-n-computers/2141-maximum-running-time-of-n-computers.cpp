@@ -24,7 +24,7 @@ bool possible(vector<int> & batteries,long long int expected,int count){
             totalsum=totalsum+batteries[i];
         }
         long long int left=*min_element(batteries.begin(),batteries.end());
-        long long int right=totalsum/n;  // imp tooo
+        long long int right=totalsum/n; // imp tooo
         long long int res=INT_MIN;
         while(left<=right){
             long long int mid=left+(right-left)/2;
