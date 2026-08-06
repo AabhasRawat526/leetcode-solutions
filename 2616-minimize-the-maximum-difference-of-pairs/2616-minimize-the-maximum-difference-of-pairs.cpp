@@ -25,8 +25,8 @@ bool isvalid(vector<int> & nums , int count , int x){
     int minimizeMax(vector<int>& nums, int p) {
         int n=nums.size();
         sort(nums.begin(),nums.end());
-        int left=0;
-        int right=nums[n-1]-nums[0];
+        int left=0;        // this is showing the smallest possible max diff and it is 0 as beside 0 it can not be we can not take negative....
+        int right=nums[n-1]-nums[0];  // and after sorting we take the largest possible max diff and that comes after we substract last element to the first element...
         int res=INT_MAX;
         while(left<=right){
             int mid=left+(right-left)/2;
