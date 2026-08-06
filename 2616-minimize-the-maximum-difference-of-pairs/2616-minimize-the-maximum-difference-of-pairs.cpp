@@ -31,7 +31,7 @@ bool isvalid(vector<int> & nums , int count , int x){
         while(left<=right){
             int mid=left+(right-left)/2;
             if(isvalid(nums,mid,p)){
-                res=mid;
+                res=min(mid,res);
                 right=mid-1;
             }
             else{
