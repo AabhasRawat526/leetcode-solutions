@@ -7,13 +7,13 @@ public:
             return findMedianSortedArrays(nums2,nums1);
         }
 
-        int m=nums1.size();
+        int n=nums1.size();
 
-        int n=nums2.size();
+        int m=nums2.size();
 
         int left=0;
 
-        int right=m;
+        int right=n;
 
         while(left<=right){
             int Px=left+(right-left)/2;    // mid ---- >> left half wala 
@@ -28,9 +28,9 @@ public:
 
             // right side 
 
-            int x3= (Px==m) ? INT_MAX : nums1[Px];
+            int x3= (Px==n) ? INT_MAX : nums1[Px];
 
-            int x4= (Py==n) ? INT_MAX : nums2[Py];
+            int x4= (Py==m) ? INT_MAX : nums2[Py];
 
            if (x1<=x4 && x2<=x3){
                if ((m+n)%2==1){
@@ -52,3 +52,13 @@ public:
         return -1;
     }
 };
+
+
+/*
+
+x1 = biggest element on the left of nums1
+x2 = biggest element on the left of nums2
+x3 = smallest element on the right of nums1
+x4 = smallest element on the right of nums2
+
+*/
