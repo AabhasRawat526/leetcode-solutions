@@ -37,3 +37,5 @@ int canmakebouquet(vector<int> & bloomDay,int mid_day , int k){
         return mindays;
     }
 };
+
+// new pattern we are using the binary search in the range not in the give value but in the range that we will make during the left and right one we are applying here too 
