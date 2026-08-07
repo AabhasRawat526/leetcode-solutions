@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
