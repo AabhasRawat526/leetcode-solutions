@@ -21,7 +21,7 @@ int canmakebouquet(vector<int> & bloomDay,int mid_day , int k){
 
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n=bloomDay.size();
-        int start_day=0;
+        int start_day=1;
         int end_day=*max_element(bloomDay.begin(),bloomDay.end());
         int mindays=-1;
         while(start_day<=end_day){
