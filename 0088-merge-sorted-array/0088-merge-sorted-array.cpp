@@ -16,24 +16,24 @@ public:
         while(i<m and j<n){
             if (a[i]<=b[j]){
                 res[index]=a[i];
-                i++;
                 index++;
+                i++;
             }
             else{
                 res[index]=b[j];
-                j++;
                 index++;
+                j++;
             }
         }
         while(i<m){
             res[index]=a[i];
-            i++;
             index++;
+            i++;
         }
         while(j<n){
             res[index]=b[j];
-            j++;
             index++;
+            j++;
         }
         nums1=res;
     }
