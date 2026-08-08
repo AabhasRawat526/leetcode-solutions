@@ -32,7 +32,8 @@ int binarysearch(vector<vector<int>> &items,int queryprice){
 
         for (int i=0;i<m;i++){
             int queryprice=queries[i];
-            result[i]=binarysearch(items,queryprice);
+            int maxiBeauty=binarysearch(items,queryprice);
+            result[i]=maxiBeauty;
         }
         return result;
     }
