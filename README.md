@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2070-most-beautiful-item-for-each-query) |
