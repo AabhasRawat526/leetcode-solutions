@@ -26,7 +26,8 @@ int canmakebouquet(vector<int> & bloomDay,int mid_day , int k){
         int mindays=-1;
         while(start_day<=end_day){
             int mid_day=start_day+(end_day-start_day)/2;
-            if (canmakebouquet(bloomDay,mid_day,k)>=m){
+            int day=canmakebouquet(bloomDay,mid_day,k);
+            if (day>=m){
                 mindays=mid_day;
                 end_day=mid_day-1;
             }
