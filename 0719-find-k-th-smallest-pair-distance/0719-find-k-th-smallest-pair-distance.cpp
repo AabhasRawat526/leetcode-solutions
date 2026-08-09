@@ -1,6 +1,7 @@
 class Solution {
 public:
     int smallestDistancePair(vector<int>& nums, int k) {
+        
         int n=nums.size();
         int maxelement=*max_element(nums.begin(),nums.end());
         vector<int> res(maxelement+1);
@@ -19,5 +20,6 @@ public:
             }
         }
         return -1;
+        
     }
 };
