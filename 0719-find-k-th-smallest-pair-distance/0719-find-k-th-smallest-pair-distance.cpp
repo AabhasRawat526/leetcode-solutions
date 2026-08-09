@@ -1,7 +1,8 @@
 class Solution {
 public:
     int smallestDistancePair(vector<int>& nums, int k) {
-        
+        /*
+        Brute Force
         int n=nums.size();
         int maxelement=*max_element(nums.begin(),nums.end());
         vector<int> res(maxelement+1);
@@ -20,6 +21,17 @@ public:
             }
         }
         return -1;
-        
+        */
+
+        int n=nums.size();
+        vector <int> res;
+        for (int i=0;i<n;i++){
+            for (int j=i+1;j<n;j++){
+                int difference=abs(nums[j]-nums[i]);
+                res.push_back(difference);
+            }
+        }
+        nth_element(res.begin(),res.begin()+(k-1),res.end());
+        return res[k-1];
     }
 };
