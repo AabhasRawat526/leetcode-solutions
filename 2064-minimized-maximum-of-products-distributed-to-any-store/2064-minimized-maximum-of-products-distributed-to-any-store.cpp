@@ -14,7 +14,7 @@ bool store(vector<int>& quantities,int mid,int n){
 
     int minimizedMaximum(int n, vector<int>& quantities) {
         int m=quantities.size();
-        sort(quantities.begin(),quantities.end());
+        //sort(quantities.begin(),quantities.end());
         int left=1;
         int maxelement=*max_element(quantities.begin(),quantities.end());
         int right=maxelement;
