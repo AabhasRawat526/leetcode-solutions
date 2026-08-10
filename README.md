@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3731-find-missing-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
