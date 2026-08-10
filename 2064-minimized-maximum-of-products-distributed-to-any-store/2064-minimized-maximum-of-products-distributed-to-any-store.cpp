@@ -3,7 +3,8 @@ public:
 
 bool store(vector<int>& quantities,int mid,int n){
     for (int i=0;i<quantities.size();i++){
-        n=n-ceil((double)quantities[i]/mid);
+       // n=n-ceil((double)quantities[i]/mid);
+       n=n-(quantities[i]+mid-1)/mid;
         if (n<0){
             return false;
         }
