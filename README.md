@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
