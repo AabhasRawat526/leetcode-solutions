@@ -8,7 +8,7 @@ public:
         for (int right=0;right<n;right++){
             f[nums[right]]++;
             while(f[nums[right]]>k){
-                f[nums[left]]--;
+                f[nums[left]]--; // we need to shrink the window from the left, because we want to keep the subarray contiguous.
                 left++;
             }
             ans=max(ans,right-left+1);
