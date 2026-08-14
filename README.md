@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -463,4 +465,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
