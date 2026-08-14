@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1539-kth-missing-positive-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1539-kth-missing-positive-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 ## Matrix
 |  |
 | ------- |
