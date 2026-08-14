@@ -44,3 +44,37 @@ public:
         return maxfruits;
     }
 };
+
+
+
+/*
+
+                         d = 0
+                       /       \
+                      ▼         ▼
+                 ALL RIGHT   ALL LEFT
+                    Case 1      Case 2
+                       │         │
+                       └────┬────┘
+                            ▼
+                         d = 1
+                       /       \
+                      ▼         ▼
+                LEFT → RIGHT  RIGHT → LEFT
+                   Case 1        Case 2
+                      │             │
+                      └──────┬──────┘
+                             ▼
+                           d = 2
+                       /       \
+                      ▼         ▼
+                LEFT → RIGHT  RIGHT → LEFT
+                             .
+                             .
+                             .
+                          d = k/2
+                       /       \
+                      ▼         ▼
+                LEFT → RIGHT  RIGHT → LEFT
+
+*/
