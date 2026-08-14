@@ -14,7 +14,7 @@ bool ispossibletorepair(vector<int> & ranks,int cars,long long int mid){
 
     long long repairCars(vector<int>& ranks, int cars) {
         int n=ranks.size();
-        long long int left=0;
+        long long int left=1;
         long long int right=1LL*(*max_element(ranks.begin(),ranks.end()))*cars*cars;
         long long int res=-1;
         while(left<=right){
