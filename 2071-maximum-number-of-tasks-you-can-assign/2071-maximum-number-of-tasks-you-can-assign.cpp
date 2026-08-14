@@ -3,7 +3,7 @@ public:
 
 bool possible(vector<int>& tasks, vector<int>& workers,int pills,int strength,int mid){
     int pillused=0;
-    multiset <int> st(workers.begin(),workers.begin()+mid);
+    multiset <int> st(workers.begin(),workers.begin()+mid);  // multiset automatically keeps the values sorted in ascending order, while also allowing duplicate values.
     for (int i=mid-1;i>=0;i--){
         auto id = prev(st.end());
         if (*id >= tasks[i]){
