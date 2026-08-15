@@ -28,6 +28,9 @@ public:
 
             // case two when it is moving to the right
 
+            //i=startPos+d;   wrong
+            //j=startPos-(k-2*d);
+
             i=startPos-(k-2*d);
             j=startPos+d;
 
