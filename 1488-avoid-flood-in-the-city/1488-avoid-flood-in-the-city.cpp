@@ -4,7 +4,7 @@ public:
         int n=rains.size();
         unordered_map<int,int> lake;  // stores the lakes number and days .
         set<int> st;       // storing the days in which rain does not occur and we can dry the lake and in sorted fashion.....
-        vector <int> ans(n,1);
+        vector <int> ans(n,1);   // initial value is 1 means we can dry lake 1 ...
 
         for (int i=0;i<n;i++){
             if (rains[i]==0){
@@ -22,9 +22,28 @@ public:
 
                     st.erase(it);
                 }
-                lake[rains[i]]=i;
+                lake[rains[i]]=i;   // konse din pe barish hui hai 
             }
         }
         return ans;
     }
 };
+
+
+/*
+
+Rain on a lake
+       ↓
+Has this lake appeared before?
+       ↓
+      YES
+       ↓
+Find a dry day AFTER its previous rain
+       ↓
+Dry that lake on that day
+
+        KEY          VALUE
+         ↓             ↓
+lake[ rains[i] ] =    i
+
+*/
