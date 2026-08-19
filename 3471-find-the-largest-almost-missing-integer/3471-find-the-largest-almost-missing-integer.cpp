@@ -2,6 +2,8 @@ class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
         /*
+        tc is order of n square
+        construct the window manually 
         int n=nums.size();
         if (n==k){
             return *max_element(nums.begin(),nums.end());
@@ -24,6 +26,8 @@ public:
         }
         return maximum;
         */
+        // tc is order of n 
+        // here in this i am only doing a simple observation
         int n=nums.size();
         unordered_map<int,int>f;
         int maxelement=-1;
