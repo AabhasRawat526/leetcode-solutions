@@ -16,7 +16,7 @@ public:
             j++;
         }
         int maximum=-1;
-        for (auto &id:f){
+        for (auto id:f){
             if (id.second ==1){
                 maximum=max(maximum,id.first);
             }
