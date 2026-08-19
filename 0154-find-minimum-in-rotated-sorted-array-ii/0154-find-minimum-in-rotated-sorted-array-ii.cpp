@@ -16,7 +16,7 @@ public:
                 right=mid;
             }
             else {
-                right--;
+                right--;   // for duplicate or to handle 
             }
         }
         return nums[left];
