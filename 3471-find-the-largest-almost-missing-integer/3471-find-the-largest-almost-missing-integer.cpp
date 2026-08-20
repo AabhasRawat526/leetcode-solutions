@@ -38,13 +38,13 @@ public:
             return *max_element(nums.begin(),nums.end());
         }
         else if (k==1){
-            int ans=-1;
+            //int ans=-1;
             for (auto id:f){
                 if (id.second == 1){
-                    ans=max(ans,id.first);
+                    maxelement=max(maxelement,id.first);
                 }
             }
-            return ans;
+            return maxelement;
         }
         else {
             if (f[nums[0]]==1){
