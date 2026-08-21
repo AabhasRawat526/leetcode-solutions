@@ -8,7 +8,7 @@ public:
             int row=reservedSeats[i][0]; 
             int seats=reservedSeats[i][1];
 
-            f[row].insert(seats);   // Put seat 2 into row 1's reserved-seat set.
+            f[row].insert(seats);   // Put seat 2 into row 1's reserved-seat seat.
         }
 
         int result=0;
@@ -18,7 +18,7 @@ public:
 
         for (auto [rows,bookedSeats] : f){
 
-            auto isAvailable=[&](int seats){
+            auto isAvailable=[&](int seats){  // groupa groupb groupc seats
                 return bookedSeats.find(seats)== bookedSeats.end();
             };
 
