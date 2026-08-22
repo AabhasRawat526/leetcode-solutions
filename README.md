@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Design
 |  |
 | ------- |
