@@ -6,13 +6,13 @@ bool possible(int mid,int k,int m,int n){
     int row=m;
     int column=1;
     int x=row;
-    while(x>=1 && column<=n){
-        if ((x*column)<=mid){
-            count=count+(x);
+    while(row>=1 && column<=n){
+        if ((row*column)<=mid){
+            count=count+(row);
             column++;
         }
         else {
-            x--;
+            row--;
         }
     }
     if (count>=k){
@@ -20,6 +20,8 @@ bool possible(int mid,int k,int m,int n){
     }
     return false;
 }
+
+// tc is same 0(m+n)+0(max(m,n)) 
 
     int findKthNumber(int m, int n, int k) {
         int left=1;
