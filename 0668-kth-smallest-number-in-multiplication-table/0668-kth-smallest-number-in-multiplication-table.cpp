@@ -5,8 +5,8 @@ bool possible(int mid,int k,int m,int n){
     int count=0;
     int row=m;
     int column=1;
-    int x=row;
-    while(row>=1 && column<=n){
+    //int x=row; if u are using x so replace all the rows from the x...
+    while(row>=1 && column<=n){ 
         if ((row*column)<=mid){
             count=count+(row);
             column++;
