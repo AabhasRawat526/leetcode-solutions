@@ -5,9 +5,9 @@ public:
         if (n==1 || n==2){
             return n;
         }
-        int result=0;
+        //int result=0;
         for (int i=0;i<n;i++){
-            result=pow(2,i);
+            int result=pow(2,i);
             if (n<result){
                 return result;
             }
