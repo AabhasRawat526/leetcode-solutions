@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0877-stone-game) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
