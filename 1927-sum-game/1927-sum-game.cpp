@@ -1,5 +1,6 @@
 class Solution {
 public:
+// tc is 0(n) and sc is 0(1)
     bool sumGame(string num) {
         int n=num.size();
         int leftquestionmark=0;
