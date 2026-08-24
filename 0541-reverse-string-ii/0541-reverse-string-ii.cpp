@@ -4,7 +4,7 @@ public:
         int n=s.size();
         for(int i=0;i<n;i=i+2*k){
             if ((n-i)<k){
-                reverse(s.begin()+i,s.end());
+               reverse(s.begin()+i,s.end());
             }
             else {
                 reverse(s.begin()+i,s.begin()+i+k);
