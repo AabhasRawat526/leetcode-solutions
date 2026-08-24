@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0844-backspace-string-compare](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0541-reverse-string-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0844-backspace-string-compare) |
