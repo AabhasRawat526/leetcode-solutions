@@ -5,13 +5,13 @@ public:
         if (points.size()==0){
             return res;
         }
-        priority_queue<pair<double,int>,vector<pair<double,int>>>pq; // max heap me nahi banayenge bcmp wala and all structure...
+        priority_queue<pair<int,int>,vector<pair<int,int>>>pq; // max heap me nahi banayenge bcmp wala and all structure...
         int n=points.size();
         for (int i=0;i<n;i++){
             int x=points[i][0];
             int y=points[i][1];
-            double distance=sqrt(x*x+y*y);
-            pair<double,int>current={distance,i};
+            int distance=(x*x+y*y);    // working in double can if i use int it will only take the value which is before the point and if i want whole answer i will choose double or we can still pass int and int one will work by removing the sqrt one 
+            pair<int,int>current={distance,i};
             if (pq.size()<k){
                 pq.push(current);
                 continue;
