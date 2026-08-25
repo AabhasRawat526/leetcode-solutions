@@ -40,3 +40,26 @@ public:
         return res;
     }
 };
+
+/*
+
+Short summary
+pair<int,string> → {frequency, word}
+pq.top() = worst among current K
+
+Different frequency:
+
+return a.first > b.first;
+
+→ smaller frequency comes on top
+
+Same frequency:
+
+return a.second < b.second;
+
+→ alphabetically larger word comes on top
+
+Why? So we can easily remove the worst when a better word appears.
+Don't use pq.top() >= current because it uses normal pair comparison, not your custom comparator.
+
+*/
