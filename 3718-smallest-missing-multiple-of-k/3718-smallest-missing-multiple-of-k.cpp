@@ -1,6 +1,8 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
+        // tc of this solution is 0(nlogn)
+        /*
         int n=nums.size();
         set <int> s;
         int j=1;
@@ -12,6 +14,16 @@ public:
             if ((id)==k*j){
                 j++;
             }
+        }
+        return k*j;
+        */
+        unordered_set<int> f;
+        for(int i=0;i<nums.size();i++){
+            f.insert(nums[i]);
+        }
+        int j=1;
+        while(f.count(k*j)){
+            j++;
         }
         return k*j;
     }
