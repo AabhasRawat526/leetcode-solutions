@@ -44,3 +44,9 @@ int binarySearch(vector<int>& mat,int left,int right){
         return ans;
     }
 };
+
+// we uses this binary search to count the number of 1 which is there in the matrix and once we get the number of one it is very easy use normal procedure fo the heap to calculate .........
+
+// weakest means smallest 
+
+// tc of the reverse is O(n/2) = O(n)
