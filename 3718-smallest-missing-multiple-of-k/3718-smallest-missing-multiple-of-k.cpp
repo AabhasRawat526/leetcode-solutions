@@ -1,7 +1,8 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        // tc of this solution is 0(nlogn)
+        // tc of this solution is 0(nlogn) and sc is 0(n) 
+        // during the time of insertion it takes log n times and we are inserting n time so n logn.
         /*
         int n=nums.size();
         set <int> s;
@@ -17,6 +18,7 @@ public:
         }
         return k*j;
         */
+        // tc is 0(n) and sc is 0(n)
         unordered_set<int> f;
         for(int i=0;i<nums.size();i++){
             f.insert(nums[i]);
