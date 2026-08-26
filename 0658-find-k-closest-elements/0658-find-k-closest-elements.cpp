@@ -27,3 +27,5 @@ public:
         return ans;
     }
 };
+
+// can be done with the help of binary solution will solve next time 
