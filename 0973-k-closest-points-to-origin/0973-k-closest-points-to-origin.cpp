@@ -2,9 +2,9 @@ class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
         vector<vector<int>>res;
-        if (points.size()==0){
-            return res;
-        }
+        // if (points.size()==0){
+        //     return res;
+        // }
         priority_queue<pair<int,int>,vector<pair<int,int>>>pq; // max heap me nahi banayenge bcmp wala and all structure...
         int n=points.size();
         for (int i=0;i<n;i++){
@@ -25,7 +25,7 @@ public:
             }
         }
         while(!pq.empty()){
-            res.push_back(points[pq.top().second]);
+            res.push_back(points[pq.top().second]); // do not want distance only want point so i represent index so that is why second..
             pq.pop();
         }
         return res;
