@@ -30,8 +30,9 @@ public:
                     return "";
                 }
                 pair<int,char> current2={pq.top().first,pq.top().second};
-                pq.pop();
+                //pq.pop();
                 res.push_back(current2.second);
+                pq.pop();
                 seat++;
                 current2.first--;
                 if (current2.first>0){
