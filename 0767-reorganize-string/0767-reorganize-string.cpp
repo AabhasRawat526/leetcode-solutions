@@ -24,7 +24,7 @@ public:
                 }
             }
             else {
-                pair<int,char> current={pq.top().first,pq.top().second};
+                pair<int,char> current3={pq.top().first,pq.top().second};
                 pq.pop();
                 if (pq.empty()){
                     return "";
@@ -37,7 +37,7 @@ public:
                 if (current2.first>0){
                     pq.push(current2);
                 }
-                pq.push(current);
+                pq.push(current3);
             }
         }
         if (res.size()!=s.size()){
