@@ -8,6 +8,7 @@ public:
         }
         sort(project.begin(),project.end());
         int idx=0;
+        int res=0;
         priority_queue<int> pq;
         while(k--){
             while(idx<n){
@@ -21,8 +22,9 @@ public:
                 return w;
             }
             w=w+pq.top();
+            res=w;
             pq.pop();
         }
-        return w;
+        return res;
     }
 };
