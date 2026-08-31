@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1929-concatenation-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
