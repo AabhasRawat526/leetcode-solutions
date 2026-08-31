@@ -22,7 +22,7 @@ public:
         while(!pq.empty()){
             pair<char,int> temp=pq.top();
             pq.pop();
-            res=res+string(temp.second,temp.first);
+            res=res+string(temp.second,temp.first);  //creates a string containing that character repeated that many times.
         }
         return res;
     }
