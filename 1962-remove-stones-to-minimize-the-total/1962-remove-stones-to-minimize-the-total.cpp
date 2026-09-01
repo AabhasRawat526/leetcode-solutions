@@ -14,8 +14,9 @@ public:
         }
         int sum=0;
         while(!pq.empty()){
-            sum=sum+pq.top();
+            int current3=pq.top();
             pq.pop();
+            sum=sum+current3;
         }
         return sum;
     }
