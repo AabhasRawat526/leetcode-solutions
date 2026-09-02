@@ -42,7 +42,7 @@ typedef pair<int,pair<int,int>> p;
         int n=nums1.size();
         int m=nums2.size();
 
-        priority_queue<p,vector<p>,greater<p>> pq;  // min heap
+        priority_queue<p,vector<p>,greater<p>> pq;  // min heap to get the minimum value ...
 
         int sum=nums1[0]+nums2[0];
 
