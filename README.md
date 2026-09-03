@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
