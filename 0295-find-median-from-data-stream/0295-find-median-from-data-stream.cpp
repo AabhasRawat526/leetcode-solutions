@@ -16,11 +16,12 @@ priority_queue<int,vector<int>,greater<int>>right_min_heap;
         else{
             right_min_heap.push(num);
         }
-
+        // trying to maintain that the left heap is always greater than right heap only by 1 if exceeds by one than do this ....
         if (abs((int)left_max_heap.size()-(int)right_min_heap.size())>1){
             right_min_heap.push(left_max_heap.top());
             left_max_heap.pop();
         }
+        // trying to maintain that the left max heap is greater than the right min heap ....
         else if (left_max_heap.size()<right_min_heap.size()){
             left_max_heap.push(right_min_heap.top());
             right_min_heap.pop();
