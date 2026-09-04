@@ -19,3 +19,8 @@ public:
         return -1;
     }
 };
+
+
+
+// tc is 0(n*(n+n)) == tc is 0(n*2n) which is 0(n*n)= 0(n^2);
+// sc is 0(1);
