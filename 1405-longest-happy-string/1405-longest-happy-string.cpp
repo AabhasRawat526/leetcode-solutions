@@ -16,7 +16,7 @@ public:
             int currentfrequency=pq.top().first;
             char currentword=pq.top().second;
             pq.pop();
-            if (res.length()>=2 && res[res.length()-1]==currentword && res[res.length()-2] == currentword){
+            if (res.size()>=2 && res[res.size()-1]==currentword && res[res.size()-2] == currentword){
                 if (pq.empty()){
                     break;
                 }
@@ -41,3 +41,7 @@ public:
         return res;
     }
 };
+
+// tc is 0(n) because outer loop is occuring n times and push pop we are doing for the 3 times which is constant so tc is 0(n) 
+
+// sc is 0(n) because of string res;
