@@ -10,7 +10,7 @@ public:
         }
         sort(sortedArray.begin(),sortedArray.end());
         vector<int>res;
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq; // Then it automatically sorts/orders the elements you push into the priority queue in ascending order.
         long long int currenttime=0;
         int idx=0;
         while(idx<n || !pq.empty()){
