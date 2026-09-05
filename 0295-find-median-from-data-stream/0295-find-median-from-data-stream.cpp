@@ -35,6 +35,10 @@ priority_queue<int,vector<int>,greater<int>>right_min_heap; // min heap
         else if(left_max_heap.size()>right_min_heap.size()){
             return left_max_heap.top();
         }
+        // simple we can use 
+        //else {
+            //return left_max_heap.top();
+        //} then no need of this else part only when we are using else if part we are using else part otherwise no ....
         else {
             return {};
         }
