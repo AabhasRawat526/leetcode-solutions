@@ -7,7 +7,7 @@ public:
             if (s[i]!='*'){
                 st.push(s[i]);
             }
-            else if(st.size()>0) {
+            else if(st.size()>0 && s[i]=='*') {
                 st.pop();
             }
         }
