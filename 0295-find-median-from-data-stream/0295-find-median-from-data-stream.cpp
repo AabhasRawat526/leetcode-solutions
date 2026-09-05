@@ -1,8 +1,8 @@
 class MedianFinder {
 public:
 
-priority_queue<int> left_max_heap;
-priority_queue<int,vector<int>,greater<int>>right_min_heap;
+priority_queue<int> left_max_heap; // max heap which is by default
+priority_queue<int,vector<int>,greater<int>>right_min_heap; // min heap
 
     MedianFinder() {
         
@@ -32,8 +32,11 @@ priority_queue<int,vector<int>,greater<int>>right_min_heap;
         if(left_max_heap.size()==right_min_heap.size()){
             return (double)(left_max_heap.top()+right_min_heap.top())/2.0;
         }
-        else {
+        else if(left_max_heap.size()>right_min_heap.size()){
             return left_max_heap.top();
+        }
+        else {
+            return {};
         }
     }
 };
