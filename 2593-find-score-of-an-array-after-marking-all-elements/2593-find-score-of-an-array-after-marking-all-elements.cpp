@@ -12,7 +12,7 @@ typedef pair<int,int> p;
         }
         long long int score=0;
         while(!pq.empty()){
-            p result=pq.top();
+            auto result=pq.top();
             int element=result.first;
             int idx=result.second;
             pq.pop();
