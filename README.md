@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3903-smallest-stable-index-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
 |  |
@@ -606,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Matrix
 |  |
