@@ -10,13 +10,19 @@ public:
         //     count=count+1;
         // }
         // return count;
-        int count;
-        if(n<1000){
-            return 0;
-        }
-        else {
-            int num=n-999;
-            count=num;
+        // int count;
+        // if(n<1000){
+        //     return 0;
+        // }
+        // else {
+        //     int num=n-999;
+        //     count=num;
+        // }
+        // return count;
+
+        int count=0;
+        for (int i=1000;i<=n;i++){
+            count++;
         }
         return count;
     }
