@@ -29,8 +29,10 @@ public:
                         continue;
                     }
                     else{
+                        digit[k]--;
                         ans++;
                     }
+                    digit[k]++;
                 }
                 digit[j]++;
             }
@@ -39,3 +41,6 @@ public:
         return ans;
     }
 };
+
+// tc is 0(1000)
+//sc is 0(1)
