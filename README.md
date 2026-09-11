@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
