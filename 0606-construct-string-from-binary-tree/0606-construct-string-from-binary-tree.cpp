@@ -25,7 +25,7 @@ public:
         }
 
         if (root->left==NULL){
-            return result + "()" + "(" + Right + ")";
+            return result + "(" + ")"  + "(" + Right + ")";
         }
         if (root->right==NULL){
             return result + "(" + Left + ")";
