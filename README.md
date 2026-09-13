@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0835-image-overlap](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0877-stone-game) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Design
 |  |
