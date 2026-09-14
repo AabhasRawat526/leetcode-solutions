@@ -19,8 +19,10 @@ void solve(int currentnumber,int n,vector<int> &res){
     vector<int> lexicalOrder(int n) {
        vector<int>res;
        for (int startnum=1;startnum<=9;startnum++){
-            solve(startnum,n,res);
+            solve(startnum,n,res);  // first recursive call 
        }
        return res;
     }
 };
+
+// recursion code 
