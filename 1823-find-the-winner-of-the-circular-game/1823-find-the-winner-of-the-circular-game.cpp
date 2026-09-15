@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
+        /*
         vector<int>arr;
         for (int i=1;i<=n;i++){
             arr.push_back(i);
@@ -12,5 +13,22 @@ public:
             i=idx;
         }
         return arr[0];
+        */
+        queue<int> que;
+        for (int i=1;i<=n;i++){
+            que.push(i);
+        }
+        while(que.size()>1){
+            for(int i=1;i<=k-1;i++){
+                que.push(que.front());
+                que.pop();
+            }
+            que.pop();
+        }
+        return que.front();
     }
 };
+
+// tc is the 0(n^2) as we are using two loops here like in the while loop i am iterating n times and during the time of the erasing we are also erasing and shifting the elements to the n times so total tc is the 0(n^2);
+
+// sc is the 0(n) as we are creating the new vector 
