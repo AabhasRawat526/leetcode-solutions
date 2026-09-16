@@ -36,3 +36,6 @@ string solve(int num){
         return solve(num);
     }
 };
+
+// tc is 0(log num with base 10 )
+// sc is constant and the sc is the 0(1) as we have fixed it 
