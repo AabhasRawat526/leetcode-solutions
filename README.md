@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1386-cinema-seat-allocation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2560-house-robber-iv](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2560-house-robber-iv) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
