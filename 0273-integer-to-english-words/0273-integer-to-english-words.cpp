@@ -38,4 +38,5 @@ string solve(int num){
 };
 
 // tc is 0(log num with base 10 )
-// sc is constant and the sc is the 0(1) as we have fixed it 
+// sc is constant and the sc is the 0(1) as we have fixed it for unordered map 
+// sc is the 0(log num to the base 10) for the recursion part 
