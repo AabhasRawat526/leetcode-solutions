@@ -16,11 +16,15 @@ public:
             }
             if (currentsum==target){
                 int length=j-i+1;
+                //  // Is there a valid subarray BEFORE me?
                 if (i>0 && bestindextillnow[i-1]!=INT_MAX){
-                    result=min(result,bestindextillnow[i-1]+length);
+                    //  // Combine them
+                    result=min(result,bestindextillnow[i-1]+length); // to handle the overlap we do this part 
                 }
+                // Remember current subarray if it is the shortest
                 bestminlength=min(bestminlength,length);
             }
+            // Save shortest valid subarray up to j
             bestindextillnow[j]=bestminlength;
             j++;
         }
