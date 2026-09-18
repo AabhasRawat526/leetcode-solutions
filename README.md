@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0877-stone-game) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -755,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
