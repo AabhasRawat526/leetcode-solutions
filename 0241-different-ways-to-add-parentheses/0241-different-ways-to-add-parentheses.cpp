@@ -23,6 +23,7 @@ vector<int> solve(string expression){
             }
         }
     }
+    // if there is no operation this means that there must be a number 
     if (res.empty()){
         res.push_back(stoi(expression));
     }
