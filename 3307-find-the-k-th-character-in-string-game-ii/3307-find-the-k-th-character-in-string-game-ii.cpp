@@ -16,7 +16,7 @@ public:
                 break;
             }
         }
-        char ch=kthCharacter(newk,operations);
+        char ch=kthCharacter(newk,operations); // recursive calling ho raha hai yaha pe 
         if (operationtype==0){
             return ch;
         }
