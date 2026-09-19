@@ -6,7 +6,7 @@ public:
         vector<bool>isvalid(26,false);
         vector<string>res;
         int n=s.size();
-        // main working of this is code is that it is maintaining the start index from where it is starting and it is also updating the end index if it is occuring more than one time ...
+        // main working of this part of the code is that it is maintaining the start index from where it is starting and it is also updating the end index if it is occuring more than one time ...
         for (int i=0;i<n;i++){
             int idx=s[i]-'a';
             if(startindex[idx]==-1){
@@ -15,7 +15,7 @@ public:
             endindex[idx]=i;
         }
         // now the main wokring of this part of code is to extend the window and also to check whether we can take that character or not 
-        for (int c=0;c<26;c++){
+        for (int c=0;c<26;c++){ // can i create a valid substring from that character can i this loop is doing that work 
             if (startindex[c]==-1){
                 continue;
             }
@@ -34,10 +34,11 @@ public:
         int lasttakenindex=INT_MAX;
         for (int i=n-1;i>=0;i--){
             int x=s[i]-'a';
+            // If the current character cannot make a valid substring, ignore it.
             if (!isvalid[x]){
                 continue;
             }
-            if (i==startindex[x] && endindex[x]<lasttakenindex){
+            if (i==startindex[x] && endindex[x]<lasttakenindex){  // endindex[x]<lasttakenindex this is for the overlap 
                 res.push_back(s.substr(i,endindex[x]-i+1));
                 lasttakenindex=i;
             }
