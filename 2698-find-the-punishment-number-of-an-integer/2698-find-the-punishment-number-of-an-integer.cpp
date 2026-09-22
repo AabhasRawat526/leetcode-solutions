@@ -1,6 +1,20 @@
 class Solution {
 public:
 
+bool check(int i,int currentsum,int squarenumber){
+    if (squarenumber==0){
+        return currentsum==i;
+    }
+
+    return check(i,currentsum+squarenumber%10,squarenumber/10)||
+    check(i,currentsum+squarenumber%100,squarenumber/100)||
+    check(i,currentsum+squarenumber%1000,squarenumber/1000)||
+    check(i,currentsum+squarenumber%10000,squarenumber/10000);
+
+}
+
+/*
+
 bool check(int i,int currentsum,string s,int num){
     if (i==s.length()){
         return currentsum==num;
@@ -30,5 +44,15 @@ bool check(int i,int currentsum,string s,int num){
             }
         }
         return sum;
+        */
+        int punishmentNumber(int n) {
+            int punishnumber=0;
+            for (int i=1;i<=n;i++){
+                int square=i*i;
+                if (check(i,0,square)){;
+                    punishnumber=punishnumber+square;
+                }
+            }
+        return punishnumber;
     }
 };
