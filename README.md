@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0761-special-binary-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0761-special-binary-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0844-backspace-string-compare) |
