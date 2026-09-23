@@ -26,6 +26,6 @@ public:
         if (longestSubarray==INT_MIN){
             return -1;
         }
-        return n-longestSubarray;     // 
+        return n-longestSubarray;     // here i am solving for the sum-x and if i get the sum-x so eventually we will get the final elements n-(sum-x)
     }
 };
