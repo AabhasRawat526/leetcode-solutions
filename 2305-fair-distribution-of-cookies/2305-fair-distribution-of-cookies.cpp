@@ -3,7 +3,7 @@ public:
 int result=INT_MAX;
 int n;
 void solve(int idx,vector<int>& cookies,vector<int>& children,int k){
-    if (idx>=n){
+    if (idx==n){
         int unfairness=*max_element(children.begin(),children.end());
         result=min(result,unfairness);
         return;
