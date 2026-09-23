@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2560-house-robber-iv](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0079-word-search) |
+| [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Bracket Sequences
 |  |
@@ -806,4 +810,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0204-count-primes) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
