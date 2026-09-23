@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0079-word-search) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Bracket Sequences
 |  |
@@ -787,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 ## Primality Test
