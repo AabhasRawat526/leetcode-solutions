@@ -38,3 +38,17 @@ bool find(vector<vector<char>>& board,int i,int j,int idx,string word){
       return false;  
     }
 };
+
+
+
+/*
+
+| `dir`    | `dir[0]` | `dir[1]` | Meaning |
+| -------- | -------: | -------: | ------- |
+| `{1,0}`  |     `+1` |      `0` | Down    |
+| `{-1,0}` |     `-1` |      `0` | Up      |
+| `{0,1}`  |      `0` |     `+1` | Right   |
+| `{0,-1}` |      `0` |     `-1` | Left    |
+
+
+*/
