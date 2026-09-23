@@ -26,6 +26,6 @@ public:
         if (longestSubarray==INT_MIN){
             return -1;
         }
-        return n-longestSubarray;
+        return n-longestSubarray;     // 
     }
 };
