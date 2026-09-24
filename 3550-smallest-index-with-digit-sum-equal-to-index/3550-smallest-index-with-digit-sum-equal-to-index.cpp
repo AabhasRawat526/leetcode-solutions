@@ -13,6 +13,9 @@ public:
             if (sumofdigit==i){
                 return i;
             }
+            //if (nums[i]==i){  such that the sum of the digits of nums[i] is equal to i. read this line so that is why it is failing 
+                //return i;
+            //}
         }
         return -1;
     }
