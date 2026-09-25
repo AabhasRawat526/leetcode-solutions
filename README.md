@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2560-house-robber-iv](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2560-house-robber-iv) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Queue
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -800,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0079-word-search) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Bracket Sequences
 |  |
@@ -828,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
