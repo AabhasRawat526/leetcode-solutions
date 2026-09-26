@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1834-single-threaded-cpu](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
