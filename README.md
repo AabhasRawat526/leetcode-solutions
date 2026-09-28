@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
