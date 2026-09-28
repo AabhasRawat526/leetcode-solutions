@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+/*
 int n;
 
 void solve(string & tiles,unordered_set<string>& result,vector<bool>& used,string res){
@@ -22,5 +24,27 @@ void solve(string & tiles,unordered_set<string>& result,vector<bool>& used,strin
       string res="";
       solve(tiles,result,used,res);
       return result.size()-1;  
+    */
+    int totalcount=0;
+    int n;
+    void solve(vector<int>& result){
+        totalcount++;
+        for (int i=0;i<26;i++){
+            if (result[i]==0){
+                continue;
+            }
+            result[i]--;
+            solve(result);
+            result[i]++;
+        }
+    }
+     int numTilePossibilities(string tiles) {
+        n=tiles.size();
+        vector<int>result(26);
+        for (int i=0;i<n;i++){
+            result[tiles[i]-'A']++;
+        }
+        solve(result);
+        return totalcount-1;
     }
 };
