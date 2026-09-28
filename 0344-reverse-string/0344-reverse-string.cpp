@@ -15,7 +15,7 @@ public:
         stack<char>st;
         int n=s.size();
         for (int i=0;i<n;i++){
-            st.push(s[i]);
+            st.push(s[i]); 
         }
         int j=0;
         while(!st.empty()){
