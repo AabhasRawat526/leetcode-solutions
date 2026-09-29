@@ -46,3 +46,6 @@ bool solve(vector<vector<char>>& board){
         solve(board);
     }
 };
+
+
+// tc is constant as we are iterating 9 times max in the sudoko ....
