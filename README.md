@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1191-k-concatenation-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
+| [1219-path-with-maximum-gold](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1219-path-with-maximum-gold](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Design
 |  |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
+| [1219-path-with-maximum-gold](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
