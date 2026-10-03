@@ -64,3 +64,38 @@ public:
         return length;
     }
 };
+
+
+/*
+
+// First decision
+if (...)
+else ...
+
+// Second decision
+if (...)
+else if (...)
+
+            Current Character
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+       '('                   ')'
+        │                     │
+    left++               right++
+        │                     │
+        └──────────┬──────────┘
+                   │
+          left == right ?
+            │             │
+          Yes             No
+            │              │
+     Update length   right > left ?
+                          │
+                    Yes         No
+                     │           │
+                  Reset      Do nothing
+                     │
+               Next iteration
+
+*/
