@@ -3,6 +3,7 @@ public:
     int scoreOfParentheses(string s) {
 
         /*
+        space complexity is here 0(n);
         int n=s.size();
         stack<int>st;
         st.push(0);
