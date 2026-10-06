@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
