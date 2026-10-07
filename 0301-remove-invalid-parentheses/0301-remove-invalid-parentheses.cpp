@@ -29,13 +29,13 @@ void solve(string &s,int idx,string &current,int count,int &maxlength){
     current.push_back(s[idx]);
     solve(s,idx+1,current,count+(s[idx]=='(' ? +1 : -1),maxlength);  // explore 
     current.pop_back();
-    solve(s,idx+1,current,count,maxlength);   // reject move on 
+    solve(s,idx+1,current,count,maxlength);   // reject move on since we are removing it we can will not increase the count 
 
 }
 
     vector<string> removeInvalidParentheses(string s) {
         n=s.size();
-        st.clear();
+        st.clear();    // "Forget all results from any previous call; we're solving a fresh input now."
         int maxlength=0;
         string current="";
         solve(s,0,current,0,maxlength);
