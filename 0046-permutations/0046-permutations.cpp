@@ -4,7 +4,7 @@ public:
 int n;
 
 void solve(vector<int> & nums,vector<int> & result,vector<vector<int>> & temp,unordered_set<int> & st){
-    if (result.size()==nums.size()){
+    if (result.size()==nums.size()){    // result stores the number of elements that is explored .....
         temp.push_back(result);
         return;
     }
