@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
