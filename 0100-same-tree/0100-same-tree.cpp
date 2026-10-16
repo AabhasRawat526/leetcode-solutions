@@ -19,7 +19,7 @@ bool solve(TreeNode* p, TreeNode* q){
     if (p==nullptr or q==nullptr){
         return false;
     }
-    if (p->val!=q->val){
+    if (p->val!=q->val){    // if i write the correct case like the p->val == q->val so after comparing the root value if the root value are equal it will give me the output true without checking the other children node so write the case which will give me the wrong output ...
         return false;
     }
     bool r1=solve(p->left,q->left);
