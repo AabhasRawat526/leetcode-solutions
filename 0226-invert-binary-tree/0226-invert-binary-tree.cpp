@@ -18,6 +18,6 @@ public:
         swap(root->left,root->right);
         invertTree(root->left);
         invertTree(root->right);
-        return root;
+        return root;   // in this the return type will be the TreeNode so that is why it is suitable ......
     }
 };
