@@ -40,3 +40,6 @@ bool solve(TreeNode* root, TreeNode* subRoot){
         return isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
     }
 };
+
+
+// when 3 compares with 4 3 == 4 return false still not false because solve function gives me false answer not the subTree function subTree function ask to check the left of the root and the right of the root with the subroot after checking if the values do not matches then bothe return false then the final answer is false if one is false so it goes to the another function to check for it if both true then only the answer will be true ......
