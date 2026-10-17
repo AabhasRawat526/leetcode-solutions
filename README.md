@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 ## Primality Test
 |  |
@@ -1036,4 +1040,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
