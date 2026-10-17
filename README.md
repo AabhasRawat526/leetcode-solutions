@@ -892,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0951-flip-equivalent-binary-trees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0951-flip-equivalent-binary-trees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Data Stream
 |  |
 | ------- |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Primality Test
 |  |
 | ------- |
