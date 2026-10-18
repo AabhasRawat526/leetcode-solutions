@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 ## Primality Test
 |  |
