@@ -31,7 +31,8 @@ int solve(vector<int> & nums){
         int n=nums.size();
         PascalTriangle.resize(n+1);
         for (int i=0;i<=n;i++){
-            PascalTriangle[i]=vector<long long int>(i+1,1);
+            PascalTriangle[i]=vector<long long int>(i+1,1);  // PascalTriangle[i] represents the i-th row of Pascal's Triangle.
+            //Initially, each row is created with i + 1 elements, and every element is set to 1.
             for (int j=1;j<i;j++){
                 PascalTriangle[i][j]=(PascalTriangle[i-1][j]+PascalTriangle[i-1][j-1])%MOD;
             }
