@@ -31,3 +31,5 @@ string solve(TreeNode* root,vector<TreeNode*> & res,unordered_map<string,int> & 
         return res;
     }
 };
+
+// For each kind of duplicate subtrees, you only need to return the root node of any one of them.
