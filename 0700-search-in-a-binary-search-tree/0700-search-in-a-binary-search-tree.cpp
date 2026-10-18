@@ -31,3 +31,7 @@ TreeNode* solve(TreeNode* root,int val){
         return solve(root,val);
     }
 };
+
+// solve(root->left, val); — call the next function, but don't forward its result.
+
+//return solve(root->left, val); — call the next function and forward its result to whoever called you.
