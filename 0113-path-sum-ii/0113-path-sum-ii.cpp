@@ -23,7 +23,7 @@ void solve(TreeNode* root,int sum,vector<int> &temp,int targetSum){
     if (root->left==nullptr and root->right==nullptr){
         if (sum==targetSum){
             res.push_back(temp);
-            temp.pop_back();   // 
+            temp.pop_back();  
             return;
         }
     }
@@ -41,3 +41,12 @@ void solve(TreeNode* root,int sum,vector<int> &temp,int targetSum){
         return res;
     }
 };
+
+
+/*
+
+Just remember: the first pop_back() handles a matching path, while the second handles the remaining cases after exploring the children.
+
+so first pop_back is used when i got the right answer and to explore other right answer we do that and second pop_back is used when i do not get the right answer so that i can get the right answer correct
+
+*/
