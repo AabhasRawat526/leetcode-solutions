@@ -21,6 +21,7 @@ void solve(TreeNode* root,int sum){
     sum=sum*10+root->val;
     if (root->left==nullptr and root->right==nullptr){
         res=res+sum;
+        return;
     }
     else {
         solve(root->left,sum);
@@ -33,3 +34,5 @@ void solve(TreeNode* root,int sum){
         return res;
     }
 };
+
+// Each recursive call has its own local copy of sum.
