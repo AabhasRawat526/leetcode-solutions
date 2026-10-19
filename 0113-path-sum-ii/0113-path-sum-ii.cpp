@@ -23,7 +23,7 @@ void solve(TreeNode* root,int sum,vector<int> &temp,int targetSum){
     if (root->left==nullptr and root->right==nullptr){
         if (sum==targetSum){
             res.push_back(temp);
-            temp.pop_back();
+            temp.pop_back();   // 
             return;
         }
     }
