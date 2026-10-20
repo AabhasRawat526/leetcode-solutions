@@ -30,3 +30,9 @@ int solve(TreeNode * root){
         return res;
     }
 };
+
+// res → Stores the maximum diameter found in the entire binary tree.
+
+//return 1 + max(left, right) → Returns the height of the current subtree to its parent, so the parent can calculate its own diameter.
+
+// needs to know the height of its left subtree to calculate the diameter passing through node..
