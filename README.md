@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
