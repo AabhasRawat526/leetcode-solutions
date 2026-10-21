@@ -26,7 +26,7 @@ public:
             int levelscore=q.size();
             while(levelscore--){
                 TreeNode* t=q.front().first;
-                long long int idx=q.front().second-left;
+                long long int idx=q.front().second-left;  // normalise...
                 q.pop();
                 if (t->left!=nullptr){
                     q.push({t->left,2*idx+1});
@@ -39,3 +39,9 @@ public:
         return maxwidth;
     }
 };
+
+// idx - left changes the starting index, not the distance between nodes.
+
+// Width= rightmost node index- leftmost node index+1
+
+// Null values between the leftmost and rightmost actual nodes are counted, but null values after the rightmost actual node are not counted.
