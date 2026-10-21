@@ -2,7 +2,7 @@ class Solution {
 public:
     int minOperations(string s) {
         int n=s.size();
-        if (is_sorted(s.begin(),s.end())){
+        if (is_sorted(s.begin(),s.end())){     // taking 0(n) tc and no sc 
             return 0;
         }
 
