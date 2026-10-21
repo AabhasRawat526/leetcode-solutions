@@ -32,7 +32,7 @@ public:
                     q.push(t->right);
                 }
             }
-            res.push_back(temp.back());
+            res.push_back(temp.back());  // last node we are storing and the last node will always be right one node so that is why we are using the back one  .....
         }
         return res;
     }
