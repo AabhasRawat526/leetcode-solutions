@@ -5,8 +5,12 @@ public:
         int ascendingcount=0;
         int descendingcount=0;
         for (int i=1;i<n;i++){
-            ascendingcount+=(nums[i]==(nums[i-1]+1)%n);
-            descendingcount+=(nums[i-1]==(nums[i]+1)%n);
+            if (nums[i]==(nums[i-1]+1)%n){
+                ascendingcount++;
+            }
+            else if (nums[i-1]==(nums[i]+1)%n){
+                descendingcount++;
+            }
         }
         if (ascendingcount==n-1 && nums[0]==0){
             return 0;
