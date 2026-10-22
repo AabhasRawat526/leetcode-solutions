@@ -33,8 +33,8 @@ TreeNode* solve(vector<int>& preorder, vector<int>& inorder,int low,int high){
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
 
-        idx=0;
-        f.clear();
+        //idx=0;
+        //f.clear();
         for (int i=0;i<inorder.size();i++){
             f[inorder[i]]=i;
         }
