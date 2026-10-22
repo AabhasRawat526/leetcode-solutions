@@ -12,6 +12,8 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
+        // BFS SOLUTION 
+        /*
         if (root==nullptr){
             return 0;
         }
@@ -36,5 +38,15 @@ public:
             depth++;
         }
         return -1;
+        */
+        if (root==nullptr){
+            return 0;
+        }
+        if (root->left==nullptr and root->right==nullptr){
+            return 1;
+        }
+        int left=(root->left!=nullptr) ? minDepth(root->left) : INT_MAX;
+        int right=(root->right!=nullptr) ? minDepth(root->right) : INT_MAX;
+        return 1 + min(left,right);
     }
 };
