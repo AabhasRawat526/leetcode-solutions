@@ -14,7 +14,7 @@ public:
 
 TreeNode* solve(TreeNode* root,int val){
     if (root==nullptr){
-        return nullptr;
+        return 0;
     }
     if (root->val == val){
         return root;
