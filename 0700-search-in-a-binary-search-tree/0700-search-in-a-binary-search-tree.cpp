@@ -14,12 +14,12 @@ public:
 
 TreeNode* solve(TreeNode* root,int val){
     if (root==nullptr){
-        return 0;
+        return 0;    // 0 and nullptr is same in the TreeNode 
     }
     if (root->val == val){
         return root;
     }
-    if (root->val > val){
+    else if (root->val > val){
         return solve(root->left,val);
     }
     else {
