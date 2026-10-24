@@ -13,6 +13,7 @@ public:
                 right=mid;
             }
         }
-        return right;
+        //return right; working 
+        return left;
     }
 };
