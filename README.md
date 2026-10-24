@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2951-find-the-peaks](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
