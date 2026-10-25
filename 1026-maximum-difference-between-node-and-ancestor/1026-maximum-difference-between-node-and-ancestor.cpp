@@ -27,3 +27,18 @@ int findmaxdiff(TreeNode* root, int maxval,int minval){
         return findmaxdiff(root,root->val,root->val);
     }
 };
+
+
+/*
+
+First, the left task starts and must finish completely.
+
+Then execution returns to its parent, which starts the right task.
+
+Once both tasks finish, the parent returns its result to its own parent.
+
+Base-case return: finishes one call that reached nullptr.
+
+Final return: finishes the current node's call after both child calls have completed.
+
+*/
