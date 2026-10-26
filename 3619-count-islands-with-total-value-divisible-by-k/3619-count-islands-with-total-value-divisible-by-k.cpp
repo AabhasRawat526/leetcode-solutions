@@ -38,3 +38,5 @@ long long int solve(vector<vector<int>>& grid,int row,int col){
         return count;
     }
 };
+
+// A new function call starts. It has its own separate sum variable. now sum becomes 1 when that sum next elements found out to be 0 so it returns to the function and the value is 1 so 2 + 1 = 3 then for 5 same it has a own sum variable now sum becomes 5 which is another variable when it found that it's next element is 0 so it returns the sum to the original function and in the function contains the value 5 3 + 5 in this way 8 comes as an answer ......
