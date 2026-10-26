@@ -11,7 +11,21 @@
  */
 class Solution {
 public:
+
+map<int,int>mp;    // first one is the levelscore and the second one is the sum ...
+
+void solve(TreeNode *root, int levelscore){
+    if (root==nullptr){
+        return;
+    }
+    mp[levelscore]+= root->val;
+    solve(root->left,levelscore+1);
+    solve(root->right,levelscore+1);
+}
+
     int maxLevelSum(TreeNode* root) {
+        /*
+        BFS
         int maxsum=INT_MIN;    // TO HANDLE THE NEGATIVE SUM CASES 
         int result=0;
         int currentlevel=1;
@@ -39,6 +53,21 @@ public:
                 result=currentlevel;
             }
             currentlevel++;
+        }
+        return result;
+        */
+        mp.clear();
+        int maxsum=INT_MIN; // to handle the negative cases / sum cases 
+        int result=0;
+        solve(root,1);
+
+        for (auto & id:mp){
+            int sum=id.second;
+            int res=id.first;
+            if (sum>maxsum){
+                maxsum=sum;
+                result=res;
+            }
         }
         return result;
     }
