@@ -947,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1141,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
