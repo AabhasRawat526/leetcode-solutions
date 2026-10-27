@@ -11,7 +11,27 @@
  */
 class Solution {
 public:
+
+vector<int>res;
+
+void solve(TreeNode* root,int depth){
+    if (root==nullptr){
+        return;
+    }
+    if (res.size()==depth){
+        res.push_back(root->val);
+    }
+    else {
+        res[depth]=max(res[depth],root->val);
+    }
+    solve(root->left,depth+1);
+    solve(root->right,depth+1);
+}
+
+
     vector<int> largestValues(TreeNode* root) {
+        /*
+        BFS SOLUTION...
         vector<int>res;
         if (root==nullptr){
             return res;
@@ -34,6 +54,11 @@ public:
             }
             res.push_back(temp);
         }
+        return res;
+        */
+        // DFS SOLUTION ..... 
+
+        solve(root,0);
         return res;
     }
 };
