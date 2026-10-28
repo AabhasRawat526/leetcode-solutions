@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0022-generate-parentheses) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
