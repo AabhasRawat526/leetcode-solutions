@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Data Stream
 |  |
 | ------- |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Primality Test
 |  |
@@ -1172,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
