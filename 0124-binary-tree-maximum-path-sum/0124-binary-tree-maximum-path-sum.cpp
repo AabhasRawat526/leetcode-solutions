@@ -12,7 +12,7 @@
 class Solution {
 public:
 
-int maxsum;
+int maxsum=INT_MIN;
 
 int solve(TreeNode* root){
     if (root==nullptr){
@@ -30,7 +30,7 @@ int solve(TreeNode* root){
 
 
     int maxPathSum(TreeNode* root) {
-        maxsum=INT_MIN;
+        //maxsum=INT_MIN;
         solve(root);
         return maxsum;
     }
