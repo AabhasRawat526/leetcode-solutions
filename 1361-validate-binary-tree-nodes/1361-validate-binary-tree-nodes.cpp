@@ -50,7 +50,7 @@ public:
             int node=q.front();
             q.pop();
 
-            for (int &v : adj[node]){
+            for (int v : adj[node]){
                 if (!visited[v]){
                     visited[v]=true;
                     count++;
