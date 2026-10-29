@@ -14,9 +14,9 @@ public:
 
 // LCA FINDING 
 
-TreeNode* ans=nullptr;
+//TreeNode* ans=nullptr;
 
-
+/*
 int solve(TreeNode* root,int startValue,int destValue){
     if (root==nullptr){
         return 0;
@@ -64,7 +64,33 @@ bool directionfind(TreeNode* ans,int target,string& path){
     return false;
 }
 
+*/
+
+bool finddirec(TreeNode* root,int target,string & path){
+    if (root==nullptr){
+        return false;
+    }
+    if (root->val==target){
+        return true;
+    }
+    path.push_back('L');
+    if (finddirec(root->left,target,path)==true){
+        return true;
+    }
+    path.pop_back();
+
+    path.push_back('R');
+    if (finddirec(root->right,target,path)==true){
+        return true;
+    }
+    path.pop_back();
+    return false;
+}
+
+
+
     string getDirections(TreeNode* root, int startValue, int destValue) {
+        /*
         solve(root,startValue,destValue);
         string lcatosrc="";
         string lcatodes="";
@@ -75,6 +101,23 @@ bool directionfind(TreeNode* ans,int target,string& path){
             result.push_back('U');
         }
         result=result+lcatodes;
+        return result;
+        */
+        string roottosource="";
+        string roottodest="";
+        finddirec(root,startValue,roottosource);
+        finddirec(root,destValue,roottodest);
+        int l=0;
+        string result="";
+        while(l<roottosource.size() && l<roottodest.size() && roottosource[l]==roottodest[l]){
+            l++;
+        }
+        for (int i=l;i<roottosource.size();i++){
+            result.push_back('U');
+        }
+        for (int i=l;i<roottodest.size();i++){
+            result.push_back(roottodest[i]);
+        }
         return result;
     }
 };
