@@ -16,8 +16,8 @@ TreeNode* solve(TreeNode* root,int target){
     if (root==nullptr){
         return nullptr;
     }
-    root->left=solve(root->left,target);
-    root->right=solve(root->right,target);
+    root->left=solve(root->left,target);    // storing the what root->left will point to or what root->left should be like it should connected to that number other then target or if the root->left is the target so it should be disconnected and return nullptr...
+    root->right=solve(root->right,target);   // storing the what root->left will point to or what root->left should be like it should connected to that number other then target or if the root->left is the target so it should be disconnected and return nullptr...
     if (root->left==nullptr and root->right==nullptr){
         if (root->val==target){
             return nullptr;
