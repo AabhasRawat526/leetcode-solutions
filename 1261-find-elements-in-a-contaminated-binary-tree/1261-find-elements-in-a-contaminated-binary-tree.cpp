@@ -11,6 +11,9 @@
  */
 class FindElements {
 public:
+
+// tc is 0(n) and the sc is 0(n) but at the time of searching we simple just pass the target and then we will get it hence during searching we get 0(1) ......
+
 unordered_set<int>st;
 
 void solve(TreeNode* root,int x){
@@ -29,7 +32,7 @@ void solve(TreeNode* root,int x){
     }
     
     bool find(int target) {
-        return (st.find(target)!=st.end());
+        return (st.find(target)!=st.end());    // searching so only 0(1) time it will take for the searching .....
     }
 };
 
