@@ -14,7 +14,7 @@ public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
         unordered_map<int,TreeNode*>mp;
         unordered_set<int>visited;
-        for (vector<int>& vec: descriptions){
+        for (vector<int> vec: descriptions){
             int parent=vec[0];
             int child=vec[1];
             int isleft=vec[2];
@@ -32,7 +32,7 @@ public:
             }
             visited.insert(child);
         }
-        for (vector<int>& vec1:descriptions){
+        for (vector<int> vec1:descriptions){
             int parent1=vec1[0];
             if (visited.find(parent1)==visited.end()){
                 return mp[parent1];
