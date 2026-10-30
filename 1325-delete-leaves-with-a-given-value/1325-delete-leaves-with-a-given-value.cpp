@@ -30,3 +30,7 @@ TreeNode* solve(TreeNode* root,int target){
         return solve(root,target);
     }
 };
+
+// tc is 0(n)
+// sc is 0(height of tree)
+// sc is 0(n) skew tree 
