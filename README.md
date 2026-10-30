@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -1195,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -1214,12 +1219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Hash Function
 |  |
@@ -1241,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Graph Theory
 |  |
