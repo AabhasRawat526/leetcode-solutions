@@ -2,6 +2,7 @@ class Solution {
 public:
 
 double solve(long double x,long long int n){
+    // tc is 0(log n) --- >> n -->> n/2 --->> n/4 --->> n/8 ---->> n/16 .....
     if (n==0){
         return 1;
     }
