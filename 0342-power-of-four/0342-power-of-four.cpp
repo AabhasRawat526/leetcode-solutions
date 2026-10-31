@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool isPowerOfFour(int n) {
+        // kind of ugly number logic is same as the ugly number .....
+        // approach 1 
+        /*
         if(n==1){
             return true;
         }
@@ -16,5 +19,18 @@ public:
             }
         }
         return true;
+        */
+        if (n==1){
+            return true;
+        }
+        if (n<=0){
+            return false;
+        }
+        int x=log(n)/log(4);
+
+        if (pow(4,x)==n){
+            return true;
+        }
+        return false;
     }
 };
