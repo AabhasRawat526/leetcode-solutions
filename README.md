@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0491-non-decreasing-subsequences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0779-k-th-symbol-in-grammar](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0779-k-th-symbol-in-grammar) |
