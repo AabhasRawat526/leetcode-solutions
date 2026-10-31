@@ -9,6 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+// tc is 0(n)
+// but using 0(2n) as because we are first finding the maxdepth then finding the lca causing the 0(2n)
 class Solution {
 public:
 
@@ -20,8 +23,9 @@ void finddeepestlevel(TreeNode* root,int depth){
     if (root==nullptr){
         return;
     }
-    mp[root->val]=depth;
+    //mp[root->val]=depth;
     maxdepth=max(maxdepth,depth);
+    mp[root->val]=depth;
     finddeepestlevel(root->left,depth+1);
     finddeepestlevel(root->right,depth+1);
 }
