@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0491-non-decreasing-subsequences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0502-ipo) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
