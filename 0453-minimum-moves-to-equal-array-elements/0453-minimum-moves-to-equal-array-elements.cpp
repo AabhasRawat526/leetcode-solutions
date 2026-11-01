@@ -5,7 +5,7 @@ public:
         int n=nums.size();
         int operations=0;
         for (int i=0;i<n;i++){
-            operations+=abs(minelement-nums[i]);
+            operations+=nums[i]-minelement;
         }
         return operations;
     }
