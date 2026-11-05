@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
