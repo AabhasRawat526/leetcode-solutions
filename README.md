@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3362-zero-array-transformation-iii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
