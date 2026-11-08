@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1178,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
@@ -1251,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1288,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1361-validate-binary-tree-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
