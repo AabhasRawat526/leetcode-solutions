@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
