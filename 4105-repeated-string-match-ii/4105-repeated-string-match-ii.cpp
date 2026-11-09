@@ -11,13 +11,13 @@ public:
        long long int length=min(otherhalf,n1*n2);
        for (int s=0;s<n1;s++){
             if ((s+otherhalf) > need){
-                break;
+                break;     // terminates the whole loop outer for loop...
             }
             bool willabletofind=true;
             for (int i=0;i<length;i++){
                 if (a[(i+s)%n1] != b[(i)%n2]){
                     willabletofind=false;
-                    break;
+                    break;    // terminates the inner for loop...
                 }
             }
             if (willabletofind){
