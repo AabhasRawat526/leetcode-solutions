@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Quickselect
