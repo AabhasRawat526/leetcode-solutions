@@ -23,6 +23,7 @@ public:
         }
         return result;
         */
+        // tc is 0(n) and the sc is also 0(n) as we are taking another space 
         long long int result=0;
         vector<int>storemaxelementindex;
         int maxelement=*max_element(nums.begin(),nums.end());
