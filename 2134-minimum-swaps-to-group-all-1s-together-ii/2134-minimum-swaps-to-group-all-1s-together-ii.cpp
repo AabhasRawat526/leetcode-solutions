@@ -13,18 +13,23 @@ public:
             }
         }
         int currentone=0;
+        for (int i=0;i<totalcountone;i++){
+            if (nums[i]==1){
+                currentone++;
+            }
+        }
         int i=0;
-        int j=0;
+        int j=totalcountone;
         int maxcountone=0;
         while(j<2*n){
             if (temp[j]==1){
                 currentone++;
             }
-            if (j-i+1 > totalcountone){
-                currentone=currentone-temp[i];
-                i++;
+            if (temp[i]==1){
+                currentone--;
             }
             maxcountone=max(maxcountone,currentone);
+            i++;
             j++;
         }
         return totalcountone - maxcountone;
