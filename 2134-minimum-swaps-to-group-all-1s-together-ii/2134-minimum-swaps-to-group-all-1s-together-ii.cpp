@@ -2,6 +2,8 @@ class Solution {
 public:
     int minSwaps(vector<int>& nums) {
         /*
+        here the tc is 0(n) 
+        but the sc is 0(2*n) as we are taking the another space so 0(2*n)
         int n=nums.size();
         vector<int>temp(2*n);
         for (int i=0;i<2*n;i++){
@@ -35,7 +37,8 @@ public:
         }
         return totalcountone - maxcountone;
         */
-        int n=nums.size();
+        // here the tc is 0(n) and the sc is also the 0(n) only one space we are taking ..
+        int n=nums.size(); 
         int totalcountone=0;
         int maxcountone=0;
         for (int i=0;i<n;i++){
