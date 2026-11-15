@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
