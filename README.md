@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2579-count-total-number-of-colored-cells](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
