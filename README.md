@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2560-house-robber-iv](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2542-maximum-subsequence-score](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2560-house-robber-iv](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2560-house-robber-iv) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AabhasRawat526/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
